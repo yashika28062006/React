@@ -3,7 +3,7 @@ import "./App.css";
 
 const Home = () => {
   const handleEmailClick = () => {
-    window.location.href = "mailto:sibi@example.com";
+    window.location.href = "mailto:yashuuu@example.com";
   };
 
   return (
