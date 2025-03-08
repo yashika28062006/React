@@ -8,8 +8,8 @@ const Home = () => {
 
   return (
     <div className="home-container">
-      <h1 className="home-title">Sibi Shalom </h1>
-      <p className="home-contact">Contact: shalomsibi16@gmail.com</p>
+      <h1 className="home-title">Yashikasridhar</h1>
+      <p className="home-contact">Contact:Yashuuu@gmail.com</p>
       <button className="contact-button" onClick={handleEmailClick}>
         Contact Me
       </button>
